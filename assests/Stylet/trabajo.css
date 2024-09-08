@@ -1,0 +1,14 @@
+nav{ 
+    position: absolute;
+    background-color: black;
+}
+form{ 
+    position: relative;
+    justify-content: center;
+    top: 100px;
+    color: #131212;
+    width: 80%;
+    left: 100px;
+    
+    
+}
