@@ -19,18 +19,7 @@
   box-shadow: 0 4px 8px rgba(0,0,0,);
   
 }
-footer{ 
-  padding: 20px;
-  display: flex;
-    justify-content: center;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    box-shadow: 0 4px 8px rgba(0,0,0,); 
-    background-color: black;
-    color: white;
-    height: 400px;
-    top: 100%;
-    
-}
+
 
 .carousel-item{
 width: fit-content;
