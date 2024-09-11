@@ -31,3 +31,7 @@ footer{
     top: 100%;
     
 }
+
+.carousel-item{
+width: fit-content;
+}
