@@ -1,7 +1,6 @@
 /* Estilos del header y el navbar */
 header {
-    background-color: #f8f9fa; /* Cambia el color del fondo si es necesario */
-    padding: 10px;
+    background-color: #fff; /* Cambia el color del fondo si es necesario */
 }
 
 .navbar {
@@ -13,6 +12,14 @@ header {
 .nav-item {
     margin-left: 20px; /* Espacio entre los ítems del menú */
 }
+
+.titulo{
+    padding: 20px;
+    display: flex;
+      justify-content: center;
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      box-shadow: 0 4px 8px rgba(0,0,0,);
+  }
 
 .nav-link {
     color: #000; /* Color del texto */
